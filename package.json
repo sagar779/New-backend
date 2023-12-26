@@ -1,0 +1,16 @@
+{
+  "name": "newback-end",
+  "version": "1.0.0",
+  "description": "starting my back end journy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sagar singh rauthan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
